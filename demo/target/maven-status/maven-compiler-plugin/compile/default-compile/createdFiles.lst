@@ -1,0 +1,4 @@
+com/javeriana/flyweight/flyweightmain/FlyweightMain.class
+com/javeriana/flyweight/implementation/ListaReproduccion.class
+com/javeriana/flyweight/implementation/Cancion.class
+com/javeriana/flyweight/implementation/FabricaCanciones.class
